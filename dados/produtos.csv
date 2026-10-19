@@ -1,0 +1,9 @@
+﻿id_produto,nome_produto,categoria,preco_lista
+P001,Notebook 14,Informática,3499.9
+P002,Monitor 24,Informática,899.0
+P003,Teclado Mecânico,Periféricos,289.9
+P004,Mouse sem fio,Periféricos,119.9
+P005,Headset,Periféricos,249.0
+P006,Cadeira Ergonômica,Escritório,1290.0
+P007,Mesa Ajustável,Escritório,1890.0
+P008,Webcam HD,Informática,199.9

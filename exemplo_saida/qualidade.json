@@ -1,0 +1,21 @@
+{
+  "linhas_lidas": 5100,
+  "duplicados_removidos": 100,
+  "rejeitados": 259,
+  "carregados": 4741,
+  "taxa_aprovacao_pct": 92.96,
+  "violacoes_por_regra": {
+    "quantidade_invalida": 75,
+    "desconto_invalido": 50,
+    "data_invalida": 50,
+    "uf_vazia": 50,
+    "preco_invalido": 40
+  },
+  "tabelas_carregadas": {
+    "dim_cliente": 400,
+    "dim_produto": 8,
+    "dim_tempo": 365,
+    "fato_vendas": 4741
+  },
+  "duracao_segundos": 0.31
+}

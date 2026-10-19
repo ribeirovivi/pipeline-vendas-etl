@@ -1,0 +1,260 @@
+﻿id_pedido,data_pedido,id_cliente,nome_cliente,segmento,uf,id_produto,quantidade,preco_unitario,desconto_pct,canal,motivos
+PED004779,2025-06-11,C0334,Cliente 0334,Corporativo,SC,P001,4,3499.90,150,Aplicativo,desconto_invalido
+PED004669,17/02/2025,C0021,Cliente 0021,Varejo,SC,P006,0,1290.00,0,Parceiros,quantidade_invalida
+PED000046,2025-10-05,C0321,Cliente 0321,Corporativo,SP,P008,1,199.90,150,Televendas,desconto_invalido
+PED004905,06/05/2025,C0228,Cliente 0228,Corporativo,RS,P005,-1,249.00,0,Parceiros,quantidade_invalida
+PED002453,2025-04-12,C0035,Cliente 0035,Corporativo,SC,P004,-1,119.90,0,Aplicativo,quantidade_invalida
+PED000419,2025-09-01,C0294,Cliente 0294,Corporativo,SP,P004,4,-10.00,0,Aplicativo,preco_invalido
+PED000942,31/02/2025,C0310,Cliente 0310,Varejo,PR,P006,5,1290.00,0,Loja online,data_invalida
+PED000969,2025-08-05,C0249,Cliente 0249,Varejo,,P007,1,1890.00,0,Aplicativo,uf_vazia
+PED001352,14/02/2025,C0108,Cliente 0108,Governo,RS,P007,-1,1890.00,15,Loja online,quantidade_invalida
+PED002526,2025-11-17,C0331,Cliente 0331,Corporativo,,P001,1,3499.90,0,Parceiros,uf_vazia
+PED001041,2025-08-19,C0242,Cliente 0242,Varejo,CE,P001,0,3499.90,5,Parceiros,quantidade_invalida
+PED004104,18/08/2025,C0366,Cliente 0366,Varejo,PR,P001,1,-10.00,10,Televendas,preco_invalido
+PED001421,2025-08-21,C0256,Cliente 0256,Governo,,P002,3,899.00,0,Loja online,uf_vazia
+PED003329,2025-07-11,C0111,Cliente 0111,Governo,SP,P006,5,-10.00,10,Aplicativo,preco_invalido
+PED002404,01/08/2025,C0306,Cliente 0306,Varejo,PR,P002,5,-10.00,0,Parceiros,preco_invalido
+PED001485,2025-03-04,C0400,Cliente 0400,Varejo,,P006,1,1290.00,5,Aplicativo,uf_vazia
+PED001894,2025-03-09,C0343,Cliente 0343,Varejo,,P005,3,249.00,0,Loja online,uf_vazia
+PED001587,2025-03-13,C0392,Cliente 0392,Corporativo,,P001,3,3499.90,0,Aplicativo,uf_vazia
+PED001955,2025-11-11,C0397,Cliente 0397,Governo,BA,P002,4,899.00,150,Aplicativo,desconto_invalido
+PED000059,2025-03-09,C0018,Cliente 0018,Varejo,,P006,3,1290.00,5,Parceiros,uf_vazia
+PED004065,2025-03-27,C0308,Cliente 0308,Governo,RS,P003,2,-10.00,0,Parceiros,preco_invalido
+PED002743,2025-06-20,C0019,Cliente 0019,Corporativo,RJ,P005,3,249.00,150,Parceiros,desconto_invalido
+PED003173,2025-06-18,C0356,Cliente 0356,Varejo,RS,P005,5,249.00,150,Aplicativo,desconto_invalido
+PED000301,2025-07-27,C0237,Cliente 0237,Corporativo,PE,P004,-1,119.90,10,Parceiros,quantidade_invalida
+PED003264,2025-12-22,C0091,Cliente 0091,Governo,RJ,P001,3,3499.90,150,Televendas,desconto_invalido
+PED003476,2025-02-10,C0328,Cliente 0328,Corporativo,BA,P004,1,119.90,150,Parceiros,desconto_invalido
+PED003381,31/02/2025,C0016,Cliente 0016,Varejo,BA,P007,1,1890.00,0,Parceiros,data_invalida
+PED004956,2025-03-05,C0269,Cliente 0269,Varejo,BA,P007,3,-10.00,10,Televendas,preco_invalido
+PED003154,2025-08-26,C0065,Cliente 0065,Governo,BA,P004,0,119.90,0,Televendas,quantidade_invalida
+PED002071,2025-05-08,C0363,Cliente 0363,Corporativo,MG,P004,4,119.90,150,Televendas,desconto_invalido
+PED001688,2025-07-23,C0296,Cliente 0296,Varejo,DF,P001,-1,3499.90,5,Parceiros,quantidade_invalida
+PED004793,31/02/2025,C0075,Cliente 0075,Corporativo,MG,P004,3,119.90,0,Parceiros,data_invalida
+PED003231,20/04/2025,C0394,Cliente 0394,Corporativo,,P003,2,289.90,0,Loja online,uf_vazia
+PED002125,2025-10-21,C0277,Cliente 0277,Corporativo,PE,P003,2,289.90,150,Loja online,desconto_invalido
+PED003753,2025-01-15,C0269,Cliente 0269,Varejo,,P004,5,119.90,0,Loja online,uf_vazia
+PED000734,31/02/2025,C0394,Cliente 0394,Corporativo,DF,P005,4,249.00,0,Parceiros,data_invalida
+PED000103,2025-08-12,C0380,Cliente 0380,Governo,SC,P001,0,3499.90,5,Parceiros,quantidade_invalida
+PED004006,2025-08-06,C0385,Cliente 0385,Governo,,P003,3,289.90,10,Loja online,uf_vazia
+PED000031,2025-07-31,C0337,Cliente 0337,Corporativo,MG,P008,-1,199.90,5,Parceiros,quantidade_invalida
+PED002162,2025-01-31,C0135,Cliente 0135,Corporativo,RS,P007,1,1890.00,150,Parceiros,desconto_invalido
+PED001573,31/02/2025,C0033,Cliente 0033,Varejo,RJ,P001,1,3499.90,0,Parceiros,data_invalida
+PED003496,2025-01-27,C0253,Cliente 0253,Varejo,SC,P008,-1,199.90,10,Loja online,quantidade_invalida
+PED001095,2025-04-16,C0010,Cliente 0010,Governo,CE,P005,-1,249.00,10,Loja online,quantidade_invalida
+PED001328,2025-02-24,C0153,Cliente 0153,Governo,PE,P006,-1,1290.00,10,Televendas,quantidade_invalida
+PED000615,31/02/2025,C0296,Cliente 0296,Varejo,DF,P003,5,289.90,10,Parceiros,data_invalida
+PED003403,05/08/2025,C0215,Cliente 0215,Governo,RS,P001,-1,3499.90,15,Parceiros,quantidade_invalida
+PED004803,2025-06-20,C0205,Cliente 0205,Governo,SP,P001,0,-10.00,10,Televendas,quantidade_invalida|preco_invalido
+PED004037,2025-12-11,C0125,Cliente 0125,Corporativo,DF,P008,3,199.90,150,Televendas,desconto_invalido
+PED001833,2025-11-26,C0058,Cliente 0058,Corporativo,,P008,5,199.90,10,Loja online,uf_vazia
+PED000770,31/02/2025,C0088,Cliente 0088,Varejo,SC,P005,2,249.00,15,Loja online,data_invalida
+PED004552,2025-09-20,C0042,Cliente 0042,Varejo,DF,P001,0,3499.90,15,Televendas,quantidade_invalida
+PED004345,2025-06-09,C0092,Cliente 0092,Varejo,,P008,1,199.90,0,Loja online,uf_vazia
+PED002750,17/08/2025,C0172,Cliente 0172,Varejo,,P001,3,3499.90,0,Parceiros,uf_vazia
+PED000370,2025-08-11,C0304,Cliente 0304,Governo,,P001,2,3499.90,0,Televendas,uf_vazia
+PED003094,2025-07-25,C0106,Cliente 0106,Varejo,SC,P007,-1,1890.00,0,Aplicativo,quantidade_invalida
+PED002164,2025-03-07,C0311,Cliente 0311,Varejo,PR,P004,0,119.90,10,Aplicativo,quantidade_invalida
+PED002375,2025-03-18,C0121,Cliente 0121,Corporativo,RS,P007,-1,1890.00,0,Televendas,quantidade_invalida
+PED002858,2025-11-04,C0091,Cliente 0091,Governo,RJ,P001,5,3499.90,150,Aplicativo,desconto_invalido
+PED003442,2025-06-12,C0062,Cliente 0062,Varejo,SP,P003,1,-10.00,0,Parceiros,preco_invalido
+PED002244,2025-05-01,C0061,Cliente 0061,Governo,DF,P005,4,-10.00,10,Aplicativo,preco_invalido
+PED003796,2025-05-29,C0170,Cliente 0170,Corporativo,PR,P007,-1,1890.00,0,Parceiros,quantidade_invalida
+PED002811,2025-12-17,C0068,Cliente 0068,Governo,DF,P002,2,-10.00,15,Loja online,preco_invalido
+PED004162,2025-11-13,C0333,Cliente 0333,Corporativo,SP,P007,4,-10.00,0,Loja online,preco_invalido
+PED000053,2025-10-28,C0227,Cliente 0227,Corporativo,SP,P006,-1,1290.00,5,Parceiros,quantidade_invalida
+PED002981,2025-09-29,C0054,Cliente 0054,Varejo,,P002,5,899.00,15,Loja online,uf_vazia
+PED003627,2025-06-03,C0239,Cliente 0239,Varejo,PR,P004,4,119.90,150,Televendas,desconto_invalido
+PED000222,2025-12-15,C0391,Cliente 0391,Corporativo,CE,P004,1,119.90,150,Parceiros,desconto_invalido
+PED003327,31/02/2025,C0070,Cliente 0070,Governo,SP,P007,5,1890.00,5,Parceiros,data_invalida
+PED004509,2025-03-06,C0186,Cliente 0186,Governo,PR,P006,1,-10.00,5,Loja online,preco_invalido
+PED002143,31/02/2025,C0036,Cliente 0036,Varejo,SC,P003,-1,289.90,10,Loja online,data_invalida|quantidade_invalida
+PED003721,15/04/2025,C0254,Cliente 0254,Governo,,P002,1,899.00,15,Televendas,uf_vazia
+PED004871,2025-06-07,C0362,Cliente 0362,Corporativo,PR,P006,2,1290.00,150,Televendas,desconto_invalido
+PED001742,2025-11-19,C0166,Cliente 0166,Varejo,CE,P002,-1,-10.00,0,Parceiros,quantidade_invalida|preco_invalido
+PED004972,31/02/2025,C0136,Cliente 0136,Varejo,DF,P004,4,119.90,10,Aplicativo,data_invalida
+PED002523,31/02/2025,C0077,Cliente 0077,Governo,PR,P001,5,3499.90,0,Televendas,data_invalida
+PED003226,31/02/2025,C0015,Cliente 0015,Corporativo,SP,P002,2,899.00,150,Aplicativo,data_invalida|desconto_invalido
+PED003299,26/06/2025,C0334,Cliente 0334,Corporativo,SC,P006,-1,1290.00,0,Aplicativo,quantidade_invalida
+PED001499,2025-05-16,C0156,Cliente 0156,Governo,DF,P002,5,-10.00,10,Televendas,preco_invalido
+PED000871,31/02/2025,C0188,Cliente 0188,Varejo,PE,P003,1,289.90,15,Aplicativo,data_invalida
+PED004089,2025-07-29,C0331,Cliente 0331,Corporativo,RS,P006,5,-10.00,0,Parceiros,preco_invalido
+PED004920,2025-01-14,C0162,Cliente 0162,Governo,RS,P001,3,3499.90,150,Aplicativo,desconto_invalido
+PED002555,31/02/2025,C0048,Cliente 0048,Corporativo,PR,P005,5,249.00,0,Loja online,data_invalida
+PED004125,2025-05-24,C0343,Cliente 0343,Varejo,DF,P001,0,3499.90,10,Parceiros,quantidade_invalida
+PED003761,2025-10-10,C0164,Cliente 0164,Governo,RS,P006,0,1290.00,10,Televendas,quantidade_invalida
+PED001361,2025-09-15,C0263,Cliente 0263,Governo,BA,P008,-1,199.90,5,Televendas,quantidade_invalida
+PED003923,2025-01-26,C0328,Cliente 0328,Corporativo,BA,P008,1,-10.00,0,Aplicativo,preco_invalido
+PED004996,31/02/2025,C0283,Cliente 0283,Varejo,RS,P007,5,1890.00,15,Loja online,data_invalida
+PED000849,2025-10-03,C0380,Cliente 0380,Governo,,P001,1,3499.90,10,Loja online,uf_vazia
+PED000287,28/02/2025,C0202,Cliente 0202,Varejo,PR,P006,2,-10.00,15,Aplicativo,preco_invalido
+PED000985,2025-06-30,C0260,Cliente 0260,Governo,PR,P002,0,899.00,5,Parceiros,quantidade_invalida
+PED004676,31/02/2025,C0131,Cliente 0131,Varejo,RS,P005,5,249.00,15,Parceiros,data_invalida
+PED001629,31/02/2025,C0040,Cliente 0040,Governo,MG,P004,5,119.90,15,Parceiros,data_invalida
+PED001297,06/07/2025,C0260,Cliente 0260,Governo,,P005,2,249.00,10,Loja online,uf_vazia
+PED001487,2025-02-22,C0270,Cliente 0270,Governo,,P004,5,119.90,0,Parceiros,uf_vazia
+PED001286,2025-03-18,C0304,Cliente 0304,Governo,,P007,4,1890.00,0,Loja online,uf_vazia
+PED002873,2025-12-02,C0109,Cliente 0109,Governo,RS,P006,4,1290.00,150,Parceiros,desconto_invalido
+PED003608,2025-02-21,C0227,Cliente 0227,Corporativo,SP,P004,-1,119.90,0,Televendas,quantidade_invalida
+PED004307,31/02/2025,C0392,Cliente 0392,Corporativo,SC,P007,4,1890.00,0,Loja online,data_invalida
+PED003626,2025-10-03,C0321,Cliente 0321,Corporativo,SP,P005,4,249.00,150,Loja online,desconto_invalido
+PED004298,31/02/2025,C0160,Cliente 0160,Varejo,RJ,P006,2,1290.00,5,Loja online,data_invalida
+PED003296,2025-05-24,C0122,Cliente 0122,Varejo,RJ,P001,0,3499.90,0,Aplicativo,quantidade_invalida
+PED001594,2025-06-25,C0181,Cliente 0181,Corporativo,MG,P004,1,-10.00,0,Aplicativo,preco_invalido
+PED002522,31/02/2025,C0354,Cliente 0354,Varejo,RJ,P004,4,119.90,5,Parceiros,data_invalida
+PED001789,2025-09-29,C0043,Cliente 0043,Corporativo,PR,P004,-1,119.90,5,Parceiros,quantidade_invalida
+PED003121,27/03/2025,C0179,Cliente 0179,Varejo,,P005,3,249.00,0,Aplicativo,uf_vazia
+PED000021,31/02/2025,C0136,Cliente 0136,Varejo,DF,P004,2,119.90,0,Televendas,data_invalida
+PED000113,08/07/2025,C0020,Cliente 0020,Varejo,BA,P001,0,3499.90,0,Parceiros,quantidade_invalida
+PED003691,2025-06-15,C0101,Cliente 0101,Governo,PR,P004,-1,119.90,10,Televendas,quantidade_invalida
+PED004401,2025-09-07,C0050,Cliente 0050,Governo,SC,P001,-1,3499.90,5,Televendas,quantidade_invalida
+PED004295,2025-04-12,C0309,Cliente 0309,Corporativo,DF,P004,3,119.90,150,Aplicativo,desconto_invalido
+PED000797,31/02/2025,C0373,Cliente 0373,Varejo,PR,P005,5,249.00,0,Loja online,data_invalida
+PED003886,2025-03-21,C0146,Cliente 0146,Corporativo,DF,P004,2,-10.00,0,Parceiros,preco_invalido
+PED004392,06/06/2025,C0319,Cliente 0319,Corporativo,SC,P004,5,-10.00,10,Loja online,preco_invalido
+PED000948,2025-09-01,C0338,Cliente 0338,Governo,,P008,2,199.90,15,Loja online,uf_vazia
+PED002620,2025-05-17,C0341,Cliente 0341,Governo,SP,P001,3,3499.90,150,Loja online,desconto_invalido
+PED004689,2025-08-23,C0221,Cliente 0221,Varejo,,P002,3,899.00,15,Loja online,uf_vazia
+PED003253,2025-03-04,C0032,Cliente 0032,Corporativo,RJ,P008,0,199.90,10,Aplicativo,quantidade_invalida
+PED003704,26/12/2025,C0329,Cliente 0329,Governo,,P007,3,1890.00,15,Parceiros,uf_vazia
+PED004980,31/02/2025,C0066,Cliente 0066,Governo,RJ,P006,1,1290.00,10,Aplicativo,data_invalida
+PED000091,2025-10-21,C0059,Cliente 0059,Corporativo,SC,P005,-1,249.00,15,Loja online,quantidade_invalida
+PED004636,2025-06-11,C0400,Cliente 0400,Varejo,,P001,5,3499.90,5,Parceiros,uf_vazia
+PED002238,13/09/2025,C0169,Cliente 0169,Governo,PE,P005,-1,249.00,0,Televendas,quantidade_invalida
+PED002727,12/09/2025,C0065,Cliente 0065,Governo,BA,P006,5,1290.00,150,Loja online,desconto_invalido
+PED004015,31/02/2025,C0246,Cliente 0246,Governo,RJ,P001,4,-10.00,15,Parceiros,data_invalida|preco_invalido
+PED002187,2025-10-20,C0083,Cliente 0083,Varejo,,P002,3,899.00,10,Loja online,uf_vazia
+PED001645,2025-07-14,C0346,Cliente 0346,Corporativo,RS,P008,2,-10.00,15,Televendas,preco_invalido
+PED001281,31/02/2025,C0050,Cliente 0050,Governo,SC,P003,5,289.90,0,Televendas,data_invalida
+PED000672,31/02/2025,C0004,Cliente 0004,Varejo,RJ,P005,3,249.00,0,Televendas,data_invalida
+PED001267,2025-02-16,C0274,Cliente 0274,Governo,DF,P008,0,199.90,0,Loja online,quantidade_invalida
+PED003247,18/08/2025,C0280,Cliente 0280,Varejo,PR,P002,0,899.00,0,Aplicativo,quantidade_invalida
+PED004092,31/02/2025,C0064,Cliente 0064,Governo,MG,P005,3,249.00,0,Aplicativo,data_invalida
+PED002096,2025-12-26,C0004,Cliente 0004,Varejo,RJ,P006,0,1290.00,15,Aplicativo,quantidade_invalida
+PED002558,2025-03-19,C0025,Cliente 0025,Governo,RJ,P003,-1,289.90,0,Parceiros,quantidade_invalida
+PED001812,2025-05-14,C0386,Cliente 0386,Corporativo,MG,P004,0,119.90,5,Parceiros,quantidade_invalida
+PED003125,10/07/2025,C0082,Cliente 0082,Governo,,P005,2,249.00,15,Loja online,uf_vazia
+PED001978,2025-01-25,C0329,Cliente 0329,Governo,PE,P006,1,1290.00,150,Parceiros,desconto_invalido
+PED002951,2025-12-31,C0202,Cliente 0202,Varejo,PR,P005,0,249.00,0,Aplicativo,quantidade_invalida
+PED000193,2025-12-19,C0214,Cliente 0214,Corporativo,RS,P005,5,249.00,150,Televendas,desconto_invalido
+PED000336,2025-04-28,C0245,Cliente 0245,Corporativo,CE,P002,-1,899.00,0,Televendas,quantidade_invalida
+PED000038,02/06/2025,C0002,Cliente 0002,Varejo,PR,P005,5,-10.00,10,Aplicativo,preco_invalido
+PED004057,2025-08-13,C0358,Cliente 0358,Governo,MG,P005,1,249.00,150,Parceiros,desconto_invalido
+PED000226,31/02/2025,C0233,Cliente 0233,Corporativo,SC,P003,5,289.90,0,Parceiros,data_invalida
+PED003767,2025-07-24,C0023,Cliente 0023,Corporativo,SP,P002,0,899.00,10,Loja online,quantidade_invalida
+PED003530,2025-01-28,C0363,Cliente 0363,Corporativo,MG,P005,-1,249.00,5,Loja online,quantidade_invalida
+PED003135,2025-02-05,C0370,Cliente 0370,Corporativo,RS,P003,2,-10.00,10,Loja online,preco_invalido
+PED004946,31/02/2025,C0131,Cliente 0131,Varejo,RS,P007,1,1890.00,15,Parceiros,data_invalida
+PED001860,2025-10-03,C0259,Cliente 0259,Corporativo,BA,P006,5,1290.00,150,Loja online,desconto_invalido
+PED002291,2025-11-25,C0199,Cliente 0199,Varejo,BA,P006,1,1290.00,150,Parceiros,desconto_invalido
+PED002142,2025-12-17,C0049,Cliente 0049,Varejo,RS,P001,-1,3499.90,15,Parceiros,quantidade_invalida
+PED000272,31/02/2025,C0397,Cliente 0397,Governo,BA,P006,4,1290.00,10,Aplicativo,data_invalida
+PED001685,2025-02-17,C0150,Cliente 0150,Varejo,RS,P007,4,-10.00,15,Televendas,preco_invalido
+PED003864,02/10/2025,C0098,Cliente 0098,Governo,BA,P001,0,3499.90,0,Loja online,quantidade_invalida
+PED001063,2025-03-16,C0016,Cliente 0016,Varejo,BA,P008,5,199.90,150,Loja online,desconto_invalido
+PED003681,2025-11-22,C0224,Cliente 0224,Corporativo,RS,P008,-1,199.90,5,Televendas,quantidade_invalida
+PED003771,31/02/2025,C0138,Cliente 0138,Varejo,PE,P005,4,249.00,0,Televendas,data_invalida
+PED002058,31/02/2025,C0072,Cliente 0072,Governo,PE,P006,2,1290.00,10,Televendas,data_invalida
+PED000972,02/02/2025,C0309,Cliente 0309,Corporativo,,P005,4,249.00,5,Loja online,uf_vazia
+PED003822,2025-04-02,C0214,Cliente 0214,Corporativo,,P008,2,199.90,5,Loja online,uf_vazia
+PED000107,31/02/2025,C0203,Cliente 0203,Varejo,DF,P005,2,249.00,0,Loja online,data_invalida
+PED001379,11/01/2025,C0322,Cliente 0322,Varejo,BA,P002,1,-10.00,15,Televendas,preco_invalido
+PED004785,2025-04-04,C0102,Cliente 0102,Corporativo,,P004,2,119.90,0,Parceiros,uf_vazia
+PED003172,25/09/2025,C0043,Cliente 0043,Corporativo,,P002,3,899.00,0,Televendas,uf_vazia
+PED002897,2025-07-22,C0216,Cliente 0216,Governo,RJ,P008,5,199.90,150,Parceiros,desconto_invalido
+PED000266,2025-04-28,C0271,Cliente 0271,Governo,SC,P001,0,3499.90,10,Televendas,quantidade_invalida
+PED004414,2025-12-08,C0257,Cliente 0257,Governo,PR,P006,-1,1290.00,10,Parceiros,quantidade_invalida
+PED000300,2025-09-22,C0380,Cliente 0380,Governo,,P004,2,119.90,5,Parceiros,uf_vazia
+PED002863,2025-07-23,C0018,Cliente 0018,Varejo,RS,P008,1,199.90,150,Parceiros,desconto_invalido
+PED003597,2025-07-30,C0282,Cliente 0282,Varejo,SP,P008,-1,199.90,0,Loja online,quantidade_invalida
+PED001619,2025-04-05,C0059,Cliente 0059,Corporativo,SC,P001,0,3499.90,15,Televendas,quantidade_invalida
+PED000991,2025-10-20,C0202,Cliente 0202,Varejo,PR,P007,0,1890.00,15,Aplicativo,quantidade_invalida
+PED002580,2025-05-07,C0218,Cliente 0218,Corporativo,CE,P003,1,289.90,150,Televendas,desconto_invalido
+PED004962,31/02/2025,C0033,Cliente 0033,Varejo,RJ,P006,2,1290.00,0,Aplicativo,data_invalida
+PED002120,2025-10-10,C0192,Cliente 0192,Governo,PE,P006,3,1290.00,150,Parceiros,desconto_invalido
+PED000105,31/02/2025,C0011,Cliente 0011,Varejo,PE,P006,5,1290.00,10,Televendas,data_invalida
+PED001898,2025-11-15,C0110,Cliente 0110,Varejo,RJ,P008,-1,199.90,0,Televendas,quantidade_invalida
+PED001602,15/04/2025,C0144,Cliente 0144,Varejo,,P002,5,899.00,0,Televendas,uf_vazia
+PED002537,29/03/2025,C0380,Cliente 0380,Governo,SC,P007,0,1890.00,5,Loja online,quantidade_invalida
+PED002841,2025-05-07,C0334,Cliente 0334,Corporativo,SC,P004,2,-10.00,10,Loja online,preco_invalido
+PED003595,2025-06-14,C0181,Cliente 0181,Corporativo,,P002,1,899.00,15,Televendas,uf_vazia
+PED000002,31/02/2025,C0265,Cliente 0265,Governo,CE,P004,4,119.90,10,Aplicativo,data_invalida
+PED003170,12/01/2025,C0021,Cliente 0021,Varejo,,P001,5,3499.90,15,Televendas,uf_vazia
+PED003632,2025-05-21,C0117,Cliente 0117,Varejo,PE,P005,4,249.00,150,Televendas,desconto_invalido
+PED002807,31/02/2025,C0191,Cliente 0191,Varejo,RJ,P004,2,119.90,15,Loja online,data_invalida
+PED004304,10/05/2025,C0038,Cliente 0038,Governo,PR,P003,-1,289.90,0,Televendas,quantidade_invalida
+PED004650,2025-10-05,C0199,Cliente 0199,Varejo,,P007,2,1890.00,0,Parceiros,uf_vazia
+PED003637,2025-08-01,C0060,Cliente 0060,Varejo,,P004,4,119.90,0,Parceiros,uf_vazia
+PED003943,31/02/2025,C0273,Cliente 0273,Corporativo,RS,P005,1,249.00,0,Parceiros,data_invalida
+PED002504,2025-02-24,C0168,Cliente 0168,Governo,,P004,2,119.90,5,Aplicativo,uf_vazia
+PED002236,2025-11-20,C0296,Cliente 0296,Varejo,DF,P006,5,1290.00,150,Televendas,desconto_invalido
+PED001141,2025-11-01,C0053,Cliente 0053,Varejo,PR,P001,-1,3499.90,0,Aplicativo,quantidade_invalida
+PED001942,05/05/2025,C0007,Cliente 0007,Corporativo,SP,P005,5,249.00,150,Parceiros,desconto_invalido
+PED003285,2025-07-23,C0289,Cliente 0289,Varejo,MG,P001,-1,3499.90,5,Loja online,quantidade_invalida
+PED003613,30/11/2025,C0248,Cliente 0248,Varejo,PR,P001,1,3499.90,150,Aplicativo,desconto_invalido
+PED004539,2025-02-07,C0138,Cliente 0138,Varejo,PE,P002,2,899.00,150,Parceiros,desconto_invalido
+PED004760,2025-04-30,C0105,Cliente 0105,Varejo,RS,P005,0,249.00,5,Parceiros,quantidade_invalida
+PED000148,12/08/2025,C0064,Cliente 0064,Governo,MG,P006,-1,1290.00,10,Televendas,quantidade_invalida
+PED000964,18/05/2025,C0110,Cliente 0110,Varejo,RJ,P008,0,199.90,15,Parceiros,quantidade_invalida
+PED002254,2025-12-19,C0255,Cliente 0255,Governo,RJ,P004,4,119.90,150,Aplicativo,desconto_invalido
+PED004449,2025-03-07,C0003,Cliente 0003,Varejo,RS,P003,0,289.90,0,Televendas,quantidade_invalida
+PED000775,2025-06-16,C0059,Cliente 0059,Corporativo,SC,P008,0,199.90,0,Televendas,quantidade_invalida
+PED000152,31/02/2025,C0309,Cliente 0309,Corporativo,DF,P007,3,1890.00,10,Loja online,data_invalida
+PED000612,31/02/2025,C0204,Cliente 0204,Governo,BA,P002,2,899.00,5,Parceiros,data_invalida
+PED001483,2025-02-28,C0204,Cliente 0204,Governo,BA,P001,0,3499.90,10,Aplicativo,quantidade_invalida
+PED004561,2025-01-10,C0130,Cliente 0130,Varejo,RS,P002,0,899.00,10,Televendas,quantidade_invalida
+PED003842,21/04/2025,C0277,Cliente 0277,Corporativo,,P001,5,3499.90,15,Loja online,uf_vazia
+PED004291,2025-03-31,C0237,Cliente 0237,Corporativo,PE,P005,3,-10.00,0,Loja online,preco_invalido
+PED003101,2025-08-30,C0261,Cliente 0261,Governo,MG,P004,4,-10.00,0,Aplicativo,preco_invalido
+PED002975,2025-06-21,C0194,Cliente 0194,Corporativo,,P002,5,899.00,15,Loja online,uf_vazia
+PED000469,2025-09-19,C0215,Cliente 0215,Governo,,P002,1,899.00,5,Loja online,uf_vazia
+PED003641,2025-08-05,C0107,Cliente 0107,Varejo,CE,P008,4,199.90,150,Televendas,desconto_invalido
+PED001835,31/02/2025,C0264,Cliente 0264,Governo,MG,P005,5,249.00,0,Televendas,data_invalida
+PED000786,2025-03-15,C0037,Cliente 0037,Corporativo,,P001,4,3499.90,10,Aplicativo,uf_vazia
+PED002739,31/02/2025,C0288,Cliente 0288,Corporativo,BA,P006,2,1290.00,15,Parceiros,data_invalida
+PED002172,2025-05-23,C0172,Cliente 0172,Varejo,PR,P007,4,1890.00,150,Aplicativo,desconto_invalido
+PED003390,2025-04-08,C0276,Cliente 0276,Governo,RJ,P008,3,-10.00,15,Aplicativo,preco_invalido
+PED000713,31/02/2025,C0388,Cliente 0388,Governo,PR,P004,4,119.90,15,Parceiros,data_invalida
+PED001766,06/11/2025,C0380,Cliente 0380,Governo,SC,P002,-1,899.00,15,Televendas,quantidade_invalida
+PED002965,2025-09-12,C0098,Cliente 0098,Governo,,P008,2,199.90,10,Parceiros,uf_vazia
+PED003365,30/11/2025,C0043,Cliente 0043,Corporativo,PR,P008,3,-10.00,10,Televendas,preco_invalido
+PED002788,26/08/2025,C0131,Cliente 0131,Varejo,RS,P008,5,-10.00,0,Loja online,preco_invalido
+PED002049,31/02/2025,C0165,Cliente 0165,Governo,CE,P004,5,119.90,5,Parceiros,data_invalida
+PED002075,2025-11-21,C0127,Cliente 0127,Governo,RJ,P004,3,119.90,150,Parceiros,desconto_invalido
+PED003368,2025-01-31,C0265,Cliente 0265,Governo,CE,P001,-1,3499.90,0,Loja online,quantidade_invalida
+PED003825,2025-04-11,C0096,Cliente 0096,Governo,,P003,4,289.90,10,Loja online,uf_vazia
+PED001837,2025-09-11,C0164,Cliente 0164,Governo,,P008,1,199.90,10,Televendas,uf_vazia
+PED003241,2025-03-17,C0118,Cliente 0118,Varejo,CE,P001,1,3499.90,150,Parceiros,desconto_invalido
+PED004939,31/02/2025,C0101,Cliente 0101,Governo,PR,P001,5,3499.90,15,Parceiros,data_invalida
+PED003155,2025-05-13,C0160,Cliente 0160,Varejo,RJ,P008,2,199.90,150,Loja online,desconto_invalido
+PED004503,02/03/2025,C0237,Cliente 0237,Corporativo,PE,P003,-1,289.90,10,Aplicativo,quantidade_invalida
+PED004246,13/09/2025,C0022,Cliente 0022,Corporativo,CE,P004,3,119.90,150,Loja online,desconto_invalido
+PED003939,03/01/2025,C0269,Cliente 0269,Varejo,BA,P008,0,199.90,5,Aplicativo,quantidade_invalida
+PED003542,2025-01-03,C0129,Cliente 0129,Governo,,P001,2,3499.90,10,Parceiros,uf_vazia
+PED001390,2025-09-04,C0254,Cliente 0254,Governo,SC,P007,4,1890.00,150,Televendas,desconto_invalido
+PED000642,2025-05-07,C0198,Cliente 0198,Corporativo,SP,P008,1,199.90,150,Parceiros,desconto_invalido
+PED004521,12/06/2025,C0217,Cliente 0217,Corporativo,PE,P004,5,-10.00,15,Loja online,preco_invalido
+PED000296,2025-09-05,C0177,Cliente 0177,Corporativo,CE,P001,4,3499.90,150,Loja online,desconto_invalido
+PED004581,2025-06-19,C0010,Cliente 0010,Governo,CE,P005,2,249.00,150,Televendas,desconto_invalido
+PED004170,09/01/2025,C0324,Cliente 0324,Governo,,P007,1,1890.00,5,Loja online,uf_vazia
+PED003474,2025-09-01,C0348,Cliente 0348,Corporativo,BA,P001,3,-10.00,5,Televendas,preco_invalido
+PED002987,2025-04-04,C0039,Cliente 0039,Governo,RJ,P004,1,119.90,150,Televendas,desconto_invalido
+PED004067,2025-06-06,C0319,Cliente 0319,Corporativo,SC,P004,-1,119.90,5,Loja online,quantidade_invalida
+PED002319,31/02/2025,C0167,Cliente 0167,Varejo,BA,P007,3,1890.00,10,Aplicativo,data_invalida
+PED000515,27/10/2025,C0067,Cliente 0067,Corporativo,BA,P003,1,-10.00,5,Parceiros,preco_invalido
+PED004843,2025-01-08,C0056,Cliente 0056,Governo,PR,P001,4,-10.00,0,Loja online,preco_invalido
+PED002983,2025-08-15,C0091,Cliente 0091,Governo,,P008,4,199.90,0,Televendas,uf_vazia
+PED002225,2025-03-16,C0006,Cliente 0006,Varejo,CE,P002,5,-10.00,5,Loja online,preco_invalido
+PED004165,2025-10-10,C0390,Cliente 0390,Corporativo,DF,P003,1,-10.00,0,Aplicativo,preco_invalido
+PED002887,09/08/2025,C0293,Cliente 0293,Governo,PE,P004,-1,119.90,10,Parceiros,quantidade_invalida
+PED000220,2025-07-08,C0328,Cliente 0328,Corporativo,,P005,2,249.00,0,Parceiros,uf_vazia
+PED001232,21/03/2025,C0217,Cliente 0217,Corporativo,PE,P007,4,-10.00,0,Parceiros,preco_invalido
+PED000267,17/12/2025,C0024,Cliente 0024,Governo,DF,P002,5,899.00,150,Loja online,desconto_invalido
+PED003150,31/02/2025,C0369,Cliente 0369,Governo,BA,P001,3,3499.90,5,Televendas,data_invalida
+PED001643,31/02/2025,C0323,Cliente 0323,Corporativo,CE,P008,4,-10.00,0,Aplicativo,data_invalida|preco_invalido
+PED002894,2025-03-16,C0120,Cliente 0120,Varejo,DF,P002,-1,899.00,15,Loja online,quantidade_invalida
+PED003295,2025-03-26,C0305,Cliente 0305,Corporativo,PR,P001,0,3499.90,5,Televendas,quantidade_invalida
+PED001694,10/06/2025,C0280,Cliente 0280,Varejo,PR,P008,0,199.90,5,Parceiros,quantidade_invalida
+PED002977,31/02/2025,C0023,Cliente 0023,Corporativo,SP,P005,2,249.00,0,Loja online,data_invalida
+PED003783,2025-02-14,C0014,Cliente 0014,Corporativo,,P005,5,249.00,0,Loja online,uf_vazia
+PED001503,31/02/2025,C0116,Cliente 0116,Governo,DF,P002,1,899.00,5,Aplicativo,data_invalida
